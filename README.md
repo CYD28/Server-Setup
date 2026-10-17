@@ -8,3 +8,8 @@ on the Host machine. The Virtual Machine  used in this lab is the Oracle Virtual
 on the host machine. The KVM(Kernel-based Virtual Machine) used in Linux environments is also an option.  
 This document focust on downloading steps by steps descriptions on downloading and intalling the CentOS server without the GUI and
 the Obuntu server. The steps also cover in detail how to set up internet conectivity and share files between servers. 
+
+
+## Lab Documentation
+
+[View Complete Linux Server Setup Lab (PDF)](https://github.com/CYD28/Server-Setup/blob/main/Lab%201%20report.pdf)
